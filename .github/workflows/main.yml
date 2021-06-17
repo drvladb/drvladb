@@ -51,7 +51,9 @@ jobs:
           plugin_stock_duration: 1d
           plugin_stock_interval: 5m
           plugin_stock_symbol: GME
+          plugin_stock_token: ${{ secrets.STOCK_TOKEN }} # RapidAPI Yahoo Finance token
           plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_days: 7
           plugin_wakatime_limit: 5
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
