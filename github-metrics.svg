@@ -1476,8 +1476,8 @@
               13
             </div>
                     <div class="entry">
-              <span class="value">2</span>
-              <div class="bar" style="height: 14.285714285714285px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value">1</span>
+              <div class="bar" style="height: 7.142857142857142px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               14
             </div>
                     <div class="entry">
@@ -1542,8 +1542,8 @@
                 Mon
               </div>
                         <div class="entry">
-                <span class="value">2</span>
-                <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <span class="value">1</span>
+                <div class="bar" style="height: 5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 Tue
               </div>
                         <div class="entry">
@@ -2814,7 +2814,7 @@ The following vulnerabilities are fixed with an upgrade:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Tue, 06 Jul 2021 13:14:17 (timezone America/New_York) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Tue, 06 Jul 2021 14:06:18 (timezone America/New_York) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
