@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1772" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1977" class="">
     <defs>
         <style/>
     </defs>
@@ -1754,37 +1754,37 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Java</span>
-                            <div class="bar" style="width: 34.7666451195863%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">43%</span>
+                            <div class="bar" style="width: 33.98302296505889%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">42%</span>
                         </div>
                         <div class="entry">
                             <span class="name">PHP</span>
-                            <div class="bar" style="width: 23.193277310924373%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">29%</span>
+                            <div class="bar" style="width: 23.609923011120614%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">30%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Python</span>
-                            <div class="bar" style="width: 16.206851971557853%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">20%</span>
+                            <div class="bar" style="width: 16.469039942093836%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">21%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Hack</span>
-                            <div class="bar" style="width: 3.834518422753717%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 3.9034019872343224%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">5%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Shell</span>
-                            <div class="bar" style="width: 1.1118293471234648%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 1.1318023294071198%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Dockerfile</span>
-                            <div class="bar" style="width: 0.4835164835164835%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.492202408370073%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 0.40336134453781514%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.41060735671514115%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                     </div>
@@ -2959,15 +2959,986 @@
             <section>
                 <h2 class="field">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M10.75 9a.75.75 0 000 1.5h1.5a.75.75 0 000-1.5h-1.5z"/><path fill-rule="evenodd" d="M0 3.75C0 2.784.784 2 1.75 2h12.5c.966 0 1.75.784 1.75 1.75v8.5A1.75 1.75 0 0114.25 14H1.75A1.75 1.75 0 010 12.25v-8.5zm14.5 0V5h-13V3.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25zm0 2.75h-13v5.75c0 .138.112.25.25.25h12.5a.25.25 0 00.25-.25V6.5z"/></svg>
-      Stock prices 
+      Stock prices for GME
     </h2>
-                <div class="row fill-width">
+                <div class="row">
                     <section>
-                        <div class="field error">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.343 13.657A8 8 0 1113.657 2.343 8 8 0 012.343 13.657zM6.03 4.97a.75.75 0 00-1.06 1.06L6.94 8 4.97 9.97a.75.75 0 101.06 1.06L8 9.06l1.97 1.97a.75.75 0 101.06-1.06L9.06 8l1.97-1.97a.75.75 0 10-1.06-1.06L8 6.94 6.03 4.97z"/></svg>
-            API returned 503
+                        <div class="field">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M1.5 14.25c0 .138.112.25.25.25H4v-1.25a.75.75 0 01.75-.75h2.5a.75.75 0 01.75.75v1.25h2.25a.25.25 0 00.25-.25V1.75a.25.25 0 00-.25-.25h-8.5a.25.25 0 00-.25.25v12.5zM1.75 16A1.75 1.75 0 010 14.25V1.75C0 .784.784 0 1.75 0h8.5C11.216 0 12 .784 12 1.75v12.5c0 .085-.006.168-.018.25h2.268a.25.25 0 00.25-.25V8.285a.25.25 0 00-.111-.208l-1.055-.703a.75.75 0 11.832-1.248l1.055.703c.487.325.779.871.779 1.456v5.965A1.75 1.75 0 0114.25 16h-3.5a.75.75 0 01-.197-.026c-.099.017-.2.026-.303.026h-3a.75.75 0 01-.75-.75V14h-1v1.25a.75.75 0 01-.75.75h-3zM3 3.75A.75.75 0 013.75 3h.5a.75.75 0 010 1.5h-.5A.75.75 0 013 3.75zM3.75 6a.75.75 0 000 1.5h.5a.75.75 0 000-1.5h-.5zM3 9.75A.75.75 0 013.75 9h.5a.75.75 0 010 1.5h-.5A.75.75 0 013 9.75zM7.75 9a.75.75 0 000 1.5h.5a.75.75 0 000-1.5h-.5zM7 6.75A.75.75 0 017.75 6h.5a.75.75 0 010 1.5h-.5A.75.75 0 017 6.75zM7.75 3a.75.75 0 000 1.5h.5a.75.75 0 000-1.5h-.5z"/></svg>
+            GameStop Corporation
+          </div>
+                        <div class="field">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M6 2a.75.75 0 01.696.471L10 10.731l1.304-3.26A.75.75 0 0112 7h3.25a.75.75 0 010 1.5h-2.742l-1.812 4.528a.75.75 0 01-1.392 0L6 4.77 4.696 8.03A.75.75 0 014 8.5H.75a.75.75 0 010-1.5h2.742l1.812-4.529A.75.75 0 016 2z"/></svg>
+            Valued at 169.80 USD
           </div>
                     </section>
+                    <section>
+                        <div class="field">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M4.75 0a.75.75 0 01.75.75V2h5V.75a.75.75 0 011.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 014.75 0zm0 3.5h8.5a.25.25 0 01.25.25V6h-11V3.75a.25.25 0 01.25-.25h2zm-2.25 4v6.75c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V7.5h-11z"/></svg>
+            Today
+          </div>
+                        <div class="field">
+            
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M13.03 8.22a.75.75 0 010 1.06l-4.25 4.25a.75.75 0 01-1.06 0L3.47 9.28a.75.75 0 011.06-1.06l2.97 2.97V3.75a.75.75 0 011.5 0v7.44l2.97-2.97a.75.75 0 011.06 0z"/></svg>
+            
+            -11.91 USD (-7.01%)
+          </div>
+                    </section>
+                </div>
+                <div class="stock-chart">
+                    <div class="ct-chart">
+                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="480" height="160" class="ct-chart-line">
+                            <style>.ct-double-octave:after,
+.ct-major-eleventh:after,
+.ct-major-second:after,
+.ct-major-seventh:after,
+.ct-major-sixth:after,
+.ct-major-tenth:after,
+.ct-major-third:after,
+.ct-major-twelfth:after,
+.ct-minor-second:after,
+.ct-minor-seventh:after,
+.ct-minor-sixth:after,
+.ct-minor-third:after,
+.ct-octave:after,
+.ct-perfect-fifth:after,
+.ct-perfect-fourth:after,
+.ct-square:after {
+  content: "";
+  clear: both;
+}
+.ct-label {
+  fill: rgba(0, 0, 0, 0.4);
+  color: rgba(0, 0, 0, 0.4);
+  font-size: .75rem;
+  line-height: 1;
+}
+.ct-grid-background,
+.ct-line {
+  fill: none;
+}
+.ct-chart-bar .ct-label,
+.ct-chart-line .ct-label {
+  display: block;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+}
+.ct-chart-donut .ct-label,
+.ct-chart-pie .ct-label {
+  dominant-baseline: central;
+}
+.ct-label.ct-horizontal.ct-start {
+  -webkit-box-align: flex-end;
+  -webkit-align-items: flex-end;
+  -ms-flex-align: flex-end;
+  align-items: flex-end;
+  -webkit-box-pack: flex-start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  text-anchor: start;
+}
+.ct-label.ct-horizontal.ct-end {
+  -webkit-box-align: flex-start;
+  -webkit-align-items: flex-start;
+  -ms-flex-align: flex-start;
+  align-items: flex-start;
+  -webkit-box-pack: flex-start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  text-anchor: start;
+}
+.ct-label.ct-vertical.ct-start {
+  -webkit-box-align: flex-end;
+  -webkit-align-items: flex-end;
+  -ms-flex-align: flex-end;
+  align-items: flex-end;
+  -webkit-box-pack: flex-end;
+  -webkit-justify-content: flex-end;
+  -ms-flex-pack: flex-end;
+  justify-content: flex-end;
+  text-align: right;
+  text-anchor: end;
+}
+.ct-label.ct-vertical.ct-end {
+  -webkit-box-align: flex-end;
+  -webkit-align-items: flex-end;
+  -ms-flex-align: flex-end;
+  align-items: flex-end;
+  -webkit-box-pack: flex-start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  text-anchor: start;
+}
+.ct-chart-bar .ct-label.ct-horizontal.ct-start {
+  -webkit-box-align: flex-end;
+  -webkit-align-items: flex-end;
+  -ms-flex-align: flex-end;
+  align-items: flex-end;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  text-align: center;
+  text-anchor: start;
+}
+.ct-chart-bar .ct-label.ct-horizontal.ct-end {
+  -webkit-box-align: flex-start;
+  -webkit-align-items: flex-start;
+  -ms-flex-align: flex-start;
+  align-items: flex-start;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  text-align: center;
+  text-anchor: start;
+}
+.ct-chart-bar.ct-horizontal-bars .ct-label.ct-horizontal.ct-start {
+  -webkit-box-align: flex-end;
+  -webkit-align-items: flex-end;
+  -ms-flex-align: flex-end;
+  align-items: flex-end;
+  -webkit-box-pack: flex-start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  text-anchor: start;
+}
+.ct-chart-bar.ct-horizontal-bars .ct-label.ct-horizontal.ct-end {
+  -webkit-box-align: flex-start;
+  -webkit-align-items: flex-start;
+  -ms-flex-align: flex-start;
+  align-items: flex-start;
+  -webkit-box-pack: flex-start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  text-anchor: start;
+}
+.ct-chart-bar.ct-horizontal-bars .ct-label.ct-vertical.ct-start {
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: flex-end;
+  -webkit-justify-content: flex-end;
+  -ms-flex-pack: flex-end;
+  justify-content: flex-end;
+  text-align: right;
+  text-anchor: end;
+}
+.ct-chart-bar.ct-horizontal-bars .ct-label.ct-vertical.ct-end {
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: flex-start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  text-anchor: end;
+}
+.ct-grid {
+  stroke: rgba(0, 0, 0, 0.2);
+  stroke-width: 1px;
+  stroke-dasharray: 2px;
+}
+.ct-point {
+  stroke-width: 10px;
+  stroke-linecap: round;
+}
+.ct-line {
+  stroke-width: 4px;
+}
+.ct-area {
+  stroke: none;
+  fill-opacity: 0.1;
+}
+.ct-bar {
+  fill: none;
+  stroke-width: 10px;
+}
+.ct-slice-donut {
+  fill: none;
+  stroke-width: 60px;
+}
+.ct-series-a .ct-bar,
+.ct-series-a .ct-line,
+.ct-series-a .ct-point,
+.ct-series-a .ct-slice-donut {
+  stroke: #d70206;
+}
+.ct-series-a .ct-area,
+.ct-series-a .ct-slice-donut-solid,
+.ct-series-a .ct-slice-pie {
+  fill: #d70206;
+}
+.ct-series-b .ct-bar,
+.ct-series-b .ct-line,
+.ct-series-b .ct-point,
+.ct-series-b .ct-slice-donut {
+  stroke: #f05b4f;
+}
+.ct-series-b .ct-area,
+.ct-series-b .ct-slice-donut-solid,
+.ct-series-b .ct-slice-pie {
+  fill: #f05b4f;
+}
+.ct-series-c .ct-bar,
+.ct-series-c .ct-line,
+.ct-series-c .ct-point,
+.ct-series-c .ct-slice-donut {
+  stroke: #f4c63d;
+}
+.ct-series-c .ct-area,
+.ct-series-c .ct-slice-donut-solid,
+.ct-series-c .ct-slice-pie {
+  fill: #f4c63d;
+}
+.ct-series-d .ct-bar,
+.ct-series-d .ct-line,
+.ct-series-d .ct-point,
+.ct-series-d .ct-slice-donut {
+  stroke: #d17905;
+}
+.ct-series-d .ct-area,
+.ct-series-d .ct-slice-donut-solid,
+.ct-series-d .ct-slice-pie {
+  fill: #d17905;
+}
+.ct-series-e .ct-bar,
+.ct-series-e .ct-line,
+.ct-series-e .ct-point,
+.ct-series-e .ct-slice-donut {
+  stroke: #453d3f;
+}
+.ct-series-e .ct-area,
+.ct-series-e .ct-slice-donut-solid,
+.ct-series-e .ct-slice-pie {
+  fill: #453d3f;
+}
+.ct-series-f .ct-bar,
+.ct-series-f .ct-line,
+.ct-series-f .ct-point,
+.ct-series-f .ct-slice-donut {
+  stroke: #59922b;
+}
+.ct-series-f .ct-area,
+.ct-series-f .ct-slice-donut-solid,
+.ct-series-f .ct-slice-pie {
+  fill: #59922b;
+}
+.ct-series-g .ct-bar,
+.ct-series-g .ct-line,
+.ct-series-g .ct-point,
+.ct-series-g .ct-slice-donut {
+  stroke: #0544d3;
+}
+.ct-series-g .ct-area,
+.ct-series-g .ct-slice-donut-solid,
+.ct-series-g .ct-slice-pie {
+  fill: #0544d3;
+}
+.ct-series-h .ct-bar,
+.ct-series-h .ct-line,
+.ct-series-h .ct-point,
+.ct-series-h .ct-slice-donut {
+  stroke: #6b0392;
+}
+.ct-series-h .ct-area,
+.ct-series-h .ct-slice-donut-solid,
+.ct-series-h .ct-slice-pie {
+  fill: #6b0392;
+}
+.ct-series-i .ct-bar,
+.ct-series-i .ct-line,
+.ct-series-i .ct-point,
+.ct-series-i .ct-slice-donut {
+  stroke: #f05b4f;
+}
+.ct-series-i .ct-area,
+.ct-series-i .ct-slice-donut-solid,
+.ct-series-i .ct-slice-pie {
+  fill: #f05b4f;
+}
+.ct-series-j .ct-bar,
+.ct-series-j .ct-line,
+.ct-series-j .ct-point,
+.ct-series-j .ct-slice-donut {
+  stroke: #dda458;
+}
+.ct-series-j .ct-area,
+.ct-series-j .ct-slice-donut-solid,
+.ct-series-j .ct-slice-pie {
+  fill: #dda458;
+}
+.ct-series-k .ct-bar,
+.ct-series-k .ct-line,
+.ct-series-k .ct-point,
+.ct-series-k .ct-slice-donut {
+  stroke: #eacf7d;
+}
+.ct-series-k .ct-area,
+.ct-series-k .ct-slice-donut-solid,
+.ct-series-k .ct-slice-pie {
+  fill: #eacf7d;
+}
+.ct-series-l .ct-bar,
+.ct-series-l .ct-line,
+.ct-series-l .ct-point,
+.ct-series-l .ct-slice-donut {
+  stroke: #86797d;
+}
+.ct-series-l .ct-area,
+.ct-series-l .ct-slice-donut-solid,
+.ct-series-l .ct-slice-pie {
+  fill: #86797d;
+}
+.ct-series-m .ct-bar,
+.ct-series-m .ct-line,
+.ct-series-m .ct-point,
+.ct-series-m .ct-slice-donut {
+  stroke: #b2c326;
+}
+.ct-series-m .ct-area,
+.ct-series-m .ct-slice-donut-solid,
+.ct-series-m .ct-slice-pie {
+  fill: #b2c326;
+}
+.ct-series-n .ct-bar,
+.ct-series-n .ct-line,
+.ct-series-n .ct-point,
+.ct-series-n .ct-slice-donut {
+  stroke: #6188e2;
+}
+.ct-series-n .ct-area,
+.ct-series-n .ct-slice-donut-solid,
+.ct-series-n .ct-slice-pie {
+  fill: #6188e2;
+}
+.ct-series-o .ct-bar,
+.ct-series-o .ct-line,
+.ct-series-o .ct-point,
+.ct-series-o .ct-slice-donut {
+  stroke: #a748ca;
+}
+.ct-series-o .ct-area,
+.ct-series-o .ct-slice-donut-solid,
+.ct-series-o .ct-slice-pie {
+  fill: #a748ca;
+}
+.ct-square {
+  display: block;
+  position: relative;
+  width: 100%;
+}
+.ct-square:before {
+  display: block;
+  float: left;
+  content: "";
+  width: 0;
+  height: 0;
+  padding-bottom: 100%;
+}
+.ct-square:after {
+  display: table;
+}
+.ct-square &gt; svg {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.ct-minor-second {
+  display: block;
+  position: relative;
+  width: 100%;
+}
+.ct-minor-second:before {
+  display: block;
+  float: left;
+  content: "";
+  width: 0;
+  height: 0;
+  padding-bottom: 93.75%;
+}
+.ct-minor-second:after {
+  display: table;
+}
+.ct-minor-second &gt; svg {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.ct-major-second {
+  display: block;
+  position: relative;
+  width: 100%;
+}
+.ct-major-second:before {
+  display: block;
+  float: left;
+  content: "";
+  width: 0;
+  height: 0;
+  padding-bottom: 88.88888889%;
+}
+.ct-major-second:after {
+  display: table;
+}
+.ct-major-second &gt; svg {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.ct-minor-third {
+  display: block;
+  position: relative;
+  width: 100%;
+}
+.ct-minor-third:before {
+  display: block;
+  float: left;
+  content: "";
+  width: 0;
+  height: 0;
+  padding-bottom: 83.33333333%;
+}
+.ct-minor-third:after {
+  display: table;
+}
+.ct-minor-third &gt; svg {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.ct-major-third {
+  display: block;
+  position: relative;
+  width: 100%;
+}
+.ct-major-third:before {
+  display: block;
+  float: left;
+  content: "";
+  width: 0;
+  height: 0;
+  padding-bottom: 80%;
+}
+.ct-major-third:after {
+  display: table;
+}
+.ct-major-third &gt; svg {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.ct-perfect-fourth {
+  display: block;
+  position: relative;
+  width: 100%;
+}
+.ct-perfect-fourth:before {
+  display: block;
+  float: left;
+  content: "";
+  width: 0;
+  height: 0;
+  padding-bottom: 75%;
+}
+.ct-perfect-fourth:after {
+  display: table;
+}
+.ct-perfect-fourth &gt; svg {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.ct-perfect-fifth {
+  display: block;
+  position: relative;
+  width: 100%;
+}
+.ct-perfect-fifth:before {
+  display: block;
+  float: left;
+  content: "";
+  width: 0;
+  height: 0;
+  padding-bottom: 66.66666667%;
+}
+.ct-perfect-fifth:after {
+  display: table;
+}
+.ct-perfect-fifth &gt; svg {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.ct-minor-sixth {
+  display: block;
+  position: relative;
+  width: 100%;
+}
+.ct-minor-sixth:before {
+  display: block;
+  float: left;
+  content: "";
+  width: 0;
+  height: 0;
+  padding-bottom: 62.5%;
+}
+.ct-minor-sixth:after {
+  display: table;
+}
+.ct-minor-sixth &gt; svg {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.ct-golden-section {
+  display: block;
+  position: relative;
+  width: 100%;
+}
+.ct-golden-section:before {
+  display: block;
+  float: left;
+  content: "";
+  width: 0;
+  height: 0;
+  padding-bottom: 61.80469716%;
+}
+.ct-golden-section:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.ct-golden-section &gt; svg {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.ct-major-sixth {
+  display: block;
+  position: relative;
+  width: 100%;
+}
+.ct-major-sixth:before {
+  display: block;
+  float: left;
+  content: "";
+  width: 0;
+  height: 0;
+  padding-bottom: 60%;
+}
+.ct-major-sixth:after {
+  display: table;
+}
+.ct-major-sixth &gt; svg {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.ct-minor-seventh {
+  display: block;
+  position: relative;
+  width: 100%;
+}
+.ct-minor-seventh:before {
+  display: block;
+  float: left;
+  content: "";
+  width: 0;
+  height: 0;
+  padding-bottom: 56.25%;
+}
+.ct-minor-seventh:after {
+  display: table;
+}
+.ct-minor-seventh &gt; svg {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.ct-major-seventh {
+  display: block;
+  position: relative;
+  width: 100%;
+}
+.ct-major-seventh:before {
+  display: block;
+  float: left;
+  content: "";
+  width: 0;
+  height: 0;
+  padding-bottom: 53.33333333%;
+}
+.ct-major-seventh:after {
+  display: table;
+}
+.ct-major-seventh &gt; svg {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.ct-octave {
+  display: block;
+  position: relative;
+  width: 100%;
+}
+.ct-octave:before {
+  display: block;
+  float: left;
+  content: "";
+  width: 0;
+  height: 0;
+  padding-bottom: 50%;
+}
+.ct-octave:after {
+  display: table;
+}
+.ct-octave &gt; svg {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.ct-major-tenth {
+  display: block;
+  position: relative;
+  width: 100%;
+}
+.ct-major-tenth:before {
+  display: block;
+  float: left;
+  content: "";
+  width: 0;
+  height: 0;
+  padding-bottom: 40%;
+}
+.ct-major-tenth:after {
+  display: table;
+}
+.ct-major-tenth &gt; svg {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.ct-major-eleventh {
+  display: block;
+  position: relative;
+  width: 100%;
+}
+.ct-major-eleventh:before {
+  display: block;
+  float: left;
+  content: "";
+  width: 0;
+  height: 0;
+  padding-bottom: 37.5%;
+}
+.ct-major-eleventh:after {
+  display: table;
+}
+.ct-major-eleventh &gt; svg {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.ct-major-twelfth {
+  display: block;
+  position: relative;
+  width: 100%;
+}
+.ct-major-twelfth:before {
+  display: block;
+  float: left;
+  content: "";
+  width: 0;
+  height: 0;
+  padding-bottom: 33.33333333%;
+}
+.ct-major-twelfth:after {
+  display: table;
+}
+.ct-major-twelfth &gt; svg {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.ct-double-octave {
+  display: block;
+  position: relative;
+  width: 100%;
+}
+.ct-double-octave:before {
+  display: block;
+  float: left;
+  content: "";
+  width: 0;
+  height: 0;
+  padding-bottom: 25%;
+}
+.ct-double-octave:after {
+  display: table;
+}
+.ct-double-octave &gt; svg {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.ct-legend {
+  margin-top: 1em;
+}
+.ct-legend .ct-variable {
+  display: inline-block;
+  margin: 0 0.1em;
+}
+.ct-legend .ct-variable .ct-swatch {
+  display: inline-block;
+  vertical-align: baseline;
+  margin-right: 0.3em;
+  width: 0.5em;
+  height: 0.5em;
+  border: 1px solid white;
+  border-radius: 0.14em;
+}
+.ct-series-a .ct-bar,
+.ct-series-a .ct-line,
+.ct-series-a .ct-point,
+.ct-series-a .ct-slice-donut,
+.ct-series-a .ct-swatch {
+  background-color: skyblue;
+  stroke: skyblue;
+}
+.ct-series-a .ct-area,
+.ct-series-a .ct-slice-pie {
+  fill: skyblue;
+}
+.ct-series-b .ct-bar,
+.ct-series-b .ct-line,
+.ct-series-b .ct-point,
+.ct-series-b .ct-slice-donut,
+.ct-series-b .ct-swatch {
+  background-color: limegreen;
+  stroke: limegreen;
+}
+.ct-series-b .ct-area,
+.ct-series-b .ct-slice-pie {
+  fill: limegreen;
+}
+.ct-series-c .ct-bar,
+.ct-series-c .ct-line,
+.ct-series-c .ct-point,
+.ct-series-c .ct-slice-donut,
+.ct-series-c .ct-swatch {
+  background-color: indianred;
+  stroke: indianred;
+}
+.ct-series-c .ct-area,
+.ct-series-c .ct-slice-pie {
+  fill: indianred;
+}
+.ct-series-d .ct-bar,
+.ct-series-d .ct-line,
+.ct-series-d .ct-point,
+.ct-series-d .ct-slice-donut,
+.ct-series-d .ct-swatch {
+  background-color: gold;
+  stroke: gold;
+}
+.ct-series-d .ct-area,
+.ct-series-d .ct-slice-pie {
+  fill: gold;
+}
+.ct-series-e .ct-bar,
+.ct-series-e .ct-line,
+.ct-series-e .ct-point,
+.ct-series-e .ct-slice-donut,
+.ct-series-e .ct-swatch {
+  background-color: orange;
+  stroke: orange;
+}
+.ct-series-e .ct-area,
+.ct-series-e .ct-slice-pie {
+  fill: orange;
+}
+.ct-series-f .ct-bar,
+.ct-series-f .ct-line,
+.ct-series-f .ct-point,
+.ct-series-f .ct-slice-donut,
+.ct-series-f .ct-swatch {
+  background-color: indianred;
+  stroke: indianred;
+}
+.ct-series-f .ct-area,
+.ct-series-f .ct-slice-pie {
+  fill: indianred;
+}
+.ct-series-g .ct-bar,
+.ct-series-g .ct-line,
+.ct-series-g .ct-point,
+.ct-series-g .ct-slice-donut,
+.ct-series-g .ct-swatch {
+  background-color: indianred;
+  stroke: indianred;
+}
+.ct-series-g .ct-area,
+.ct-series-g .ct-slice-pie {
+  fill: indianred;
+}
+.ct-series-h .ct-bar,
+.ct-series-h .ct-line,
+.ct-series-h .ct-point,
+.ct-series-h .ct-slice-donut,
+.ct-series-h .ct-swatch {
+  background-color: indianred;
+  stroke: indianred;
+}
+.ct-series-h .ct-area,
+.ct-series-h .ct-slice-pie {
+  fill: indianred;
+}
+.ct-series-i .ct-bar,
+.ct-series-i .ct-line,
+.ct-series-i .ct-point,
+.ct-series-i .ct-slice-donut,
+.ct-series-i .ct-swatch {
+  background-color: indianred;
+  stroke: indianred;
+}
+.ct-series-i .ct-area,
+.ct-series-i .ct-slice-pie {
+  fill: indianred;
+}
+.ct-series-j .ct-bar,
+.ct-series-j .ct-line,
+.ct-series-j .ct-point,
+.ct-series-j .ct-slice-donut,
+.ct-series-j .ct-swatch {
+  background-color: indianred;
+  stroke: indianred;
+}
+.ct-series-j .ct-area,
+.ct-series-j .ct-slice-pie {
+  fill: indianred;
+}
+.ct-series-k .ct-bar,
+.ct-series-k .ct-line,
+.ct-series-k .ct-point,
+.ct-series-k .ct-slice-donut,
+.ct-series-k .ct-swatch {
+  background-color: indianred;
+  stroke: indianred;
+}
+.ct-series-k .ct-area,
+.ct-series-k .ct-slice-pie {
+  fill: indianred;
+}
+.ct-series-l .ct-bar,
+.ct-series-l .ct-line,
+.ct-series-l .ct-point,
+.ct-series-l .ct-slice-donut,
+.ct-series-l .ct-swatch {
+  background-color: indianred;
+  stroke: indianred;
+}
+.ct-series-l .ct-area,
+.ct-series-l .ct-slice-pie {
+  fill: indianred;
+}
+.ct-series-m .ct-bar,
+.ct-series-m .ct-line,
+.ct-series-m .ct-point,
+.ct-series-m .ct-slice-donut,
+.ct-series-m .ct-swatch {
+  background-color: indianred;
+  stroke: indianred;
+}
+.ct-series-m .ct-area,
+.ct-series-m .ct-slice-pie {
+  fill: indianred;
+}
+.ct-series-n .ct-bar,
+.ct-series-n .ct-line,
+.ct-series-n .ct-point,
+.ct-series-n .ct-slice-donut,
+.ct-series-n .ct-swatch {
+  background-color: indianred;
+  stroke: indianred;
+}
+.ct-series-n .ct-area,
+.ct-series-n .ct-slice-pie {
+  fill: indianred;
+}
+.ct-series-o .ct-bar,
+.ct-series-o .ct-line,
+.ct-series-o .ct-point,
+.ct-series-o .ct-slice-donut,
+.ct-series-o .ct-swatch {
+  background-color: indianred;
+  stroke: indianred;
+}
+.ct-series-o .ct-area,
+.ct-series-o .ct-slice-pie {
+  fill: indianred;
+}
+</style>
+                            <g class="ct-grids">
+                                <line y1="125" y2="125" x1="50" x2="465" class="ct-grid ct-vertical"/>
+                                <line y1="88.33333333333334" y2="88.33333333333334" x1="50" x2="465" class="ct-grid ct-vertical"/>
+                                <line y1="51.66666666666667" y2="51.66666666666667" x1="50" x2="465" class="ct-grid ct-vertical"/>
+                                <line y1="15" y2="15" x1="50" x2="465" class="ct-grid ct-vertical"/>
+                            </g>
+                            <g>
+                                <g class="ct-series ct-series-a">
+                                    <path d="M50,125L50,87.013C50.732,69.56,51.464,35.512,52.196,34.653C52.928,33.795,53.66,33.333,54.392,33.333C55.123,33.333,55.855,51.52,56.587,51.52C57.319,51.52,58.051,44.835,58.783,43.16C59.515,41.485,60.247,39.567,60.979,39.567C61.711,39.567,62.443,42.755,63.175,44.627C63.907,46.498,64.638,48.039,65.37,50.933C66.102,53.828,66.834,64.867,67.566,64.867C68.298,64.867,69.03,57.24,69.762,57.24C70.494,57.24,71.226,72.42,71.958,72.42C72.69,72.42,73.422,72.149,74.153,71.76C74.885,71.371,75.617,66.773,76.349,66.773C77.081,66.773,77.813,69.56,78.545,69.56C79.277,69.56,80.009,66.932,80.741,65.6C81.473,64.268,82.205,61.567,82.937,61.567C83.668,61.567,84.4,65.307,85.132,65.307C85.864,65.307,86.596,47.927,87.328,47.927C88.06,47.927,88.792,48.619,89.524,49.173C90.256,49.727,90.988,51.667,91.72,51.667C92.451,51.667,93.183,46.973,93.915,46.973C94.647,46.973,95.379,47.465,96.111,48C96.843,48.535,97.575,51.667,98.307,51.667C99.039,51.667,99.771,50.66,100.503,49.393C101.235,48.126,101.966,37.807,102.698,37.807C103.43,37.807,104.162,48,104.894,48C105.626,48,106.358,47.975,107.09,47.927C107.822,47.879,108.554,45.742,109.286,44.333C110.018,42.924,110.75,39.2,111.481,39.2C112.213,39.2,112.945,43.181,113.677,43.6C114.409,44.019,115.141,44.333,115.873,44.333C116.605,44.333,117.337,44.308,118.069,44.26C118.801,44.212,119.533,41.819,120.265,41.4C120.996,40.981,121.728,40.593,122.46,40.593C123.192,40.593,123.924,40.667,124.656,40.667C125.388,40.667,126.12,40.327,126.852,39.787C127.584,39.247,128.316,31.391,129.048,29.593C129.78,27.796,130.511,26.021,131.243,25.927C131.975,25.833,132.707,25.871,133.439,25.78C134.171,25.689,134.903,23.653,135.635,23.653C136.367,23.653,137.099,23.8,137.831,23.8C138.563,23.8,139.295,21.848,140.026,21.013C140.758,20.179,141.49,18.74,142.222,18.74C142.954,18.74,143.686,19.041,144.418,19.4C145.15,19.759,145.882,21.435,146.614,22.333C147.346,23.232,148.078,24.827,148.81,24.827C149.541,24.827,150.273,22.26,151.005,22.26C151.737,22.26,152.469,25.927,153.201,25.927C153.933,25.927,154.665,25.853,155.397,25.853C156.129,25.853,156.861,28.646,157.593,29.227C158.325,29.807,159.056,30.022,159.788,30.4C160.52,30.778,161.252,31.5,161.984,31.5C162.716,31.5,163.448,31.233,164.18,30.987C164.912,30.74,165.644,29.667,166.376,29.667C167.108,29.667,167.84,31.28,168.571,31.28C169.303,31.28,170.035,30.4,170.767,30.4C171.499,30.4,172.231,32.38,172.963,32.38C173.695,32.38,174.427,29.593,175.159,29.593C175.891,29.593,176.623,29.667,177.354,29.667C178.086,29.667,178.818,22.333,179.55,22.333C180.282,22.333,181.014,23.617,181.746,24.533C182.478,25.45,183.21,26.818,183.942,28.2C184.674,29.582,185.406,32.967,186.138,32.967C186.869,32.967,187.601,25.707,188.333,25.707C189.065,25.707,189.797,44.407,190.529,44.407C191.261,44.407,191.993,43.16,192.725,43.16C193.457,43.16,194.189,52.543,194.921,55.333C195.653,58.124,196.384,61.713,197.116,61.713C197.848,61.713,198.58,50.42,199.312,50.42C200.044,50.42,200.776,59.44,201.508,59.44C202.24,59.44,202.972,55.26,203.704,55.26C204.436,55.26,205.168,62.441,205.899,64.133C206.631,65.826,207.363,67.174,208.095,67.69C208.827,68.206,209.559,68.68,210.291,68.68C211.023,68.68,211.755,65.747,212.487,65.747C213.219,65.747,213.951,73.445,214.683,74.62C215.414,75.795,216.146,75.723,216.878,76.82C217.61,77.917,218.342,83.347,219.074,83.347C219.806,83.347,220.538,76.869,221.27,76.233C222.002,75.598,222.734,75.133,223.466,75.133C224.198,75.133,224.929,76.6,225.661,76.6C226.393,76.6,227.125,75.643,227.857,74.657C228.589,73.67,229.321,68.669,230.053,68.46C230.785,68.251,231.517,68.13,232.249,68.13C232.981,68.13,233.713,69.873,234.444,71.613C235.176,73.353,235.908,79.389,236.64,82.027C237.372,84.664,238.104,88.001,238.836,88.407C239.568,88.812,240.3,88.698,241.032,89.078C241.764,89.459,242.496,91.885,243.228,92.88C243.959,93.875,244.691,95.337,245.423,95.337C246.155,95.337,246.887,93.88,247.619,92.513C248.351,91.147,249.083,85.033,249.815,85.033C250.547,85.033,251.279,86.867,252.011,86.867C252.743,86.867,253.474,82.173,254.206,82.173C254.938,82.173,255.67,84.667,256.402,84.667C257.134,84.667,257.866,83.393,258.598,82.907C259.33,82.42,260.062,81.66,260.794,81.66C261.526,81.66,262.257,83.347,262.989,83.347C263.721,83.347,264.453,79.02,265.185,79.02C265.917,79.02,266.649,83.2,267.381,83.2C268.113,83.2,268.845,82.384,269.577,81.587C270.309,80.789,271.041,76.967,271.772,76.967C272.504,76.967,273.236,79.24,273.968,79.24C274.7,79.24,275.432,79.093,276.164,79.093C276.896,79.093,277.628,79.512,278.36,79.68C279.092,79.848,279.824,80.12,280.556,80.12C281.287,80.12,282.019,79.561,282.751,79.02C283.483,78.479,284.215,75.976,284.947,75.933C285.679,75.89,286.411,75.867,287.143,75.867C287.875,75.867,288.607,78.278,289.339,79.717C290.071,81.156,290.802,83.863,291.534,84.63C292.266,85.397,292.998,85.418,293.73,86.133C294.462,86.848,295.194,89.367,295.926,89.873C296.658,90.38,297.39,90.486,298.122,90.827C298.854,91.167,299.586,91.927,300.317,91.927C301.049,91.927,301.781,89.434,302.513,89.434C303.245,89.434,303.977,90.322,304.709,91.267C305.441,92.211,306.173,97.5,306.905,97.5C307.637,97.5,308.369,95.96,309.101,95.96C309.832,95.96,310.564,97.573,311.296,97.573C312.028,97.573,312.76,97.207,313.492,97.207C314.224,97.207,314.956,97.343,315.688,97.427C316.42,97.511,317.152,97.681,317.884,97.72C318.616,97.759,319.347,97.746,320.079,97.793C320.811,97.841,321.543,100.123,322.275,100.593C323.007,101.062,323.739,101.144,324.471,101.533C325.203,101.923,325.935,103.073,326.667,103.073C327.399,103.073,328.131,99.333,328.862,99.333C329.594,99.333,330.326,100.433,331.058,100.433C331.79,100.433,332.522,97,333.254,95.887C333.986,94.773,334.718,93.247,335.45,93.247C336.182,93.247,336.914,93.852,337.646,94.347C338.377,94.841,339.109,96.62,339.841,96.62C340.573,96.62,341.305,92.197,342.037,91.45C342.769,90.703,343.501,90.574,344.233,90.02C344.965,89.466,345.697,88.486,346.429,88.04C347.16,87.594,347.892,87.492,348.624,87.029C349.356,86.566,350.088,84.813,350.82,84.813C351.552,84.813,352.284,87.538,353.016,87.967C353.748,88.395,354.48,88.472,355.212,88.773C355.944,89.074,356.675,89.8,357.407,89.8C358.139,89.8,358.871,88.648,359.603,88.333C360.335,88.018,361.067,87.637,361.799,87.637C362.531,87.637,363.263,88.333,363.995,88.333C364.727,88.333,365.459,87.844,366.19,87.6C366.922,87.356,367.654,86.867,368.386,86.867C369.118,86.867,369.85,87.6,370.582,87.6C371.314,87.6,372.046,86.867,372.778,86.867C373.51,86.867,374.242,86.867,374.974,86.867C375.705,86.867,376.437,87.356,377.169,87.6C377.901,87.844,378.633,88.333,379.365,88.333C380.097,88.333,380.829,88.333,381.561,88.333C382.293,88.333,383.025,87.137,383.757,86.133C384.489,85.13,385.22,81.367,385.952,81.367C386.684,81.367,387.416,87.967,388.148,87.967C388.88,87.967,389.612,82.833,390.344,82.833C391.076,82.833,391.808,82.833,392.54,82.833C393.272,82.833,394.004,84.797,394.735,85.253C395.467,85.709,396.199,86.207,396.931,86.207C397.663,86.207,398.395,82.833,399.127,82.833C399.859,82.833,400.591,86.5,401.323,86.5C402.055,86.5,402.787,85.18,403.519,85.18C404.25,85.18,404.982,87.527,405.714,87.527C406.446,87.527,407.178,82.1,407.91,82.1C408.642,82.1,409.374,82.467,410.106,82.467C410.838,82.467,411.57,82.467,412.302,82.467C413.034,82.467,413.765,82.1,414.497,82.1C415.229,82.1,415.961,83.765,416.693,84.667C417.425,85.568,418.157,87.527,418.889,87.527C419.621,87.527,420.353,82.833,421.085,82.833C421.817,82.833,422.549,84.536,423.28,84.667C424.012,84.798,424.744,84.85,425.476,84.887C426.208,84.923,426.94,84.96,427.672,84.96C428.404,84.96,429.136,83.293,429.868,82.907C430.6,82.521,431.332,82.1,432.063,82.1C432.795,82.1,433.527,82.833,434.259,82.833C434.991,82.833,435.723,82.32,436.455,82.32C437.187,82.32,437.919,84.667,438.651,84.667C439.383,84.667,440.115,82.613,440.847,82.613C441.578,82.613,442.31,83.273,443.042,83.273C443.774,83.273,444.506,81,445.238,81C445.97,81,446.702,81.733,447.434,81.733C448.166,81.733,448.898,81,449.63,81C450.362,81,451.093,83.273,451.825,83.273C452.557,83.273,453.289,82.967,454.021,82.833C454.753,82.7,455.485,82.63,456.217,82.467C456.949,82.304,457.681,81.896,458.413,81.733C459.145,81.57,459.877,81.475,460.608,81.367C461.34,81.258,462.072,81.171,462.804,81.073L462.804,125Z" class="ct-area"/>
+                                    <path d="M50,87.013C50.732,69.56,51.464,35.512,52.196,34.653C52.928,33.795,53.66,33.333,54.392,33.333C55.123,33.333,55.855,51.52,56.587,51.52C57.319,51.52,58.051,44.835,58.783,43.16C59.515,41.485,60.247,39.567,60.979,39.567C61.711,39.567,62.443,42.755,63.175,44.627C63.907,46.498,64.638,48.039,65.37,50.933C66.102,53.828,66.834,64.867,67.566,64.867C68.298,64.867,69.03,57.24,69.762,57.24C70.494,57.24,71.226,72.42,71.958,72.42C72.69,72.42,73.422,72.149,74.153,71.76C74.885,71.371,75.617,66.773,76.349,66.773C77.081,66.773,77.813,69.56,78.545,69.56C79.277,69.56,80.009,66.932,80.741,65.6C81.473,64.268,82.205,61.567,82.937,61.567C83.668,61.567,84.4,65.307,85.132,65.307C85.864,65.307,86.596,47.927,87.328,47.927C88.06,47.927,88.792,48.619,89.524,49.173C90.256,49.727,90.988,51.667,91.72,51.667C92.451,51.667,93.183,46.973,93.915,46.973C94.647,46.973,95.379,47.465,96.111,48C96.843,48.535,97.575,51.667,98.307,51.667C99.039,51.667,99.771,50.66,100.503,49.393C101.235,48.126,101.966,37.807,102.698,37.807C103.43,37.807,104.162,48,104.894,48C105.626,48,106.358,47.975,107.09,47.927C107.822,47.879,108.554,45.742,109.286,44.333C110.018,42.924,110.75,39.2,111.481,39.2C112.213,39.2,112.945,43.181,113.677,43.6C114.409,44.019,115.141,44.333,115.873,44.333C116.605,44.333,117.337,44.308,118.069,44.26C118.801,44.212,119.533,41.819,120.265,41.4C120.996,40.981,121.728,40.593,122.46,40.593C123.192,40.593,123.924,40.667,124.656,40.667C125.388,40.667,126.12,40.327,126.852,39.787C127.584,39.247,128.316,31.391,129.048,29.593C129.78,27.796,130.511,26.021,131.243,25.927C131.975,25.833,132.707,25.871,133.439,25.78C134.171,25.689,134.903,23.653,135.635,23.653C136.367,23.653,137.099,23.8,137.831,23.8C138.563,23.8,139.295,21.848,140.026,21.013C140.758,20.179,141.49,18.74,142.222,18.74C142.954,18.74,143.686,19.041,144.418,19.4C145.15,19.759,145.882,21.435,146.614,22.333C147.346,23.232,148.078,24.827,148.81,24.827C149.541,24.827,150.273,22.26,151.005,22.26C151.737,22.26,152.469,25.927,153.201,25.927C153.933,25.927,154.665,25.853,155.397,25.853C156.129,25.853,156.861,28.646,157.593,29.227C158.325,29.807,159.056,30.022,159.788,30.4C160.52,30.778,161.252,31.5,161.984,31.5C162.716,31.5,163.448,31.233,164.18,30.987C164.912,30.74,165.644,29.667,166.376,29.667C167.108,29.667,167.84,31.28,168.571,31.28C169.303,31.28,170.035,30.4,170.767,30.4C171.499,30.4,172.231,32.38,172.963,32.38C173.695,32.38,174.427,29.593,175.159,29.593C175.891,29.593,176.623,29.667,177.354,29.667C178.086,29.667,178.818,22.333,179.55,22.333C180.282,22.333,181.014,23.617,181.746,24.533C182.478,25.45,183.21,26.818,183.942,28.2C184.674,29.582,185.406,32.967,186.138,32.967C186.869,32.967,187.601,25.707,188.333,25.707C189.065,25.707,189.797,44.407,190.529,44.407C191.261,44.407,191.993,43.16,192.725,43.16C193.457,43.16,194.189,52.543,194.921,55.333C195.653,58.124,196.384,61.713,197.116,61.713C197.848,61.713,198.58,50.42,199.312,50.42C200.044,50.42,200.776,59.44,201.508,59.44C202.24,59.44,202.972,55.26,203.704,55.26C204.436,55.26,205.168,62.441,205.899,64.133C206.631,65.826,207.363,67.174,208.095,67.69C208.827,68.206,209.559,68.68,210.291,68.68C211.023,68.68,211.755,65.747,212.487,65.747C213.219,65.747,213.951,73.445,214.683,74.62C215.414,75.795,216.146,75.723,216.878,76.82C217.61,77.917,218.342,83.347,219.074,83.347C219.806,83.347,220.538,76.869,221.27,76.233C222.002,75.598,222.734,75.133,223.466,75.133C224.198,75.133,224.929,76.6,225.661,76.6C226.393,76.6,227.125,75.643,227.857,74.657C228.589,73.67,229.321,68.669,230.053,68.46C230.785,68.251,231.517,68.13,232.249,68.13C232.981,68.13,233.713,69.873,234.444,71.613C235.176,73.353,235.908,79.389,236.64,82.027C237.372,84.664,238.104,88.001,238.836,88.407C239.568,88.812,240.3,88.698,241.032,89.078C241.764,89.459,242.496,91.885,243.228,92.88C243.959,93.875,244.691,95.337,245.423,95.337C246.155,95.337,246.887,93.88,247.619,92.513C248.351,91.147,249.083,85.033,249.815,85.033C250.547,85.033,251.279,86.867,252.011,86.867C252.743,86.867,253.474,82.173,254.206,82.173C254.938,82.173,255.67,84.667,256.402,84.667C257.134,84.667,257.866,83.393,258.598,82.907C259.33,82.42,260.062,81.66,260.794,81.66C261.526,81.66,262.257,83.347,262.989,83.347C263.721,83.347,264.453,79.02,265.185,79.02C265.917,79.02,266.649,83.2,267.381,83.2C268.113,83.2,268.845,82.384,269.577,81.587C270.309,80.789,271.041,76.967,271.772,76.967C272.504,76.967,273.236,79.24,273.968,79.24C274.7,79.24,275.432,79.093,276.164,79.093C276.896,79.093,277.628,79.512,278.36,79.68C279.092,79.848,279.824,80.12,280.556,80.12C281.287,80.12,282.019,79.561,282.751,79.02C283.483,78.479,284.215,75.976,284.947,75.933C285.679,75.89,286.411,75.867,287.143,75.867C287.875,75.867,288.607,78.278,289.339,79.717C290.071,81.156,290.802,83.863,291.534,84.63C292.266,85.397,292.998,85.418,293.73,86.133C294.462,86.848,295.194,89.367,295.926,89.873C296.658,90.38,297.39,90.486,298.122,90.827C298.854,91.167,299.586,91.927,300.317,91.927C301.049,91.927,301.781,89.434,302.513,89.434C303.245,89.434,303.977,90.322,304.709,91.267C305.441,92.211,306.173,97.5,306.905,97.5C307.637,97.5,308.369,95.96,309.101,95.96C309.832,95.96,310.564,97.573,311.296,97.573C312.028,97.573,312.76,97.207,313.492,97.207C314.224,97.207,314.956,97.343,315.688,97.427C316.42,97.511,317.152,97.681,317.884,97.72C318.616,97.759,319.347,97.746,320.079,97.793C320.811,97.841,321.543,100.123,322.275,100.593C323.007,101.062,323.739,101.144,324.471,101.533C325.203,101.923,325.935,103.073,326.667,103.073C327.399,103.073,328.131,99.333,328.862,99.333C329.594,99.333,330.326,100.433,331.058,100.433C331.79,100.433,332.522,97,333.254,95.887C333.986,94.773,334.718,93.247,335.45,93.247C336.182,93.247,336.914,93.852,337.646,94.347C338.377,94.841,339.109,96.62,339.841,96.62C340.573,96.62,341.305,92.197,342.037,91.45C342.769,90.703,343.501,90.574,344.233,90.02C344.965,89.466,345.697,88.486,346.429,88.04C347.16,87.594,347.892,87.492,348.624,87.029C349.356,86.566,350.088,84.813,350.82,84.813C351.552,84.813,352.284,87.538,353.016,87.967C353.748,88.395,354.48,88.472,355.212,88.773C355.944,89.074,356.675,89.8,357.407,89.8C358.139,89.8,358.871,88.648,359.603,88.333C360.335,88.018,361.067,87.637,361.799,87.637C362.531,87.637,363.263,88.333,363.995,88.333C364.727,88.333,365.459,87.844,366.19,87.6C366.922,87.356,367.654,86.867,368.386,86.867C369.118,86.867,369.85,87.6,370.582,87.6C371.314,87.6,372.046,86.867,372.778,86.867C373.51,86.867,374.242,86.867,374.974,86.867C375.705,86.867,376.437,87.356,377.169,87.6C377.901,87.844,378.633,88.333,379.365,88.333C380.097,88.333,380.829,88.333,381.561,88.333C382.293,88.333,383.025,87.137,383.757,86.133C384.489,85.13,385.22,81.367,385.952,81.367C386.684,81.367,387.416,87.967,388.148,87.967C388.88,87.967,389.612,82.833,390.344,82.833C391.076,82.833,391.808,82.833,392.54,82.833C393.272,82.833,394.004,84.797,394.735,85.253C395.467,85.709,396.199,86.207,396.931,86.207C397.663,86.207,398.395,82.833,399.127,82.833C399.859,82.833,400.591,86.5,401.323,86.5C402.055,86.5,402.787,85.18,403.519,85.18C404.25,85.18,404.982,87.527,405.714,87.527C406.446,87.527,407.178,82.1,407.91,82.1C408.642,82.1,409.374,82.467,410.106,82.467C410.838,82.467,411.57,82.467,412.302,82.467C413.034,82.467,413.765,82.1,414.497,82.1C415.229,82.1,415.961,83.765,416.693,84.667C417.425,85.568,418.157,87.527,418.889,87.527C419.621,87.527,420.353,82.833,421.085,82.833C421.817,82.833,422.549,84.536,423.28,84.667C424.012,84.798,424.744,84.85,425.476,84.887C426.208,84.923,426.94,84.96,427.672,84.96C428.404,84.96,429.136,83.293,429.868,82.907C430.6,82.521,431.332,82.1,432.063,82.1C432.795,82.1,433.527,82.833,434.259,82.833C434.991,82.833,435.723,82.32,436.455,82.32C437.187,82.32,437.919,84.667,438.651,84.667C439.383,84.667,440.115,82.613,440.847,82.613C441.578,82.613,442.31,83.273,443.042,83.273C443.774,83.273,444.506,81,445.238,81C445.97,81,446.702,81.733,447.434,81.733C448.166,81.733,448.898,81,449.63,81C450.362,81,451.093,83.273,451.825,83.273C452.557,83.273,453.289,82.967,454.021,82.833C454.753,82.7,455.485,82.63,456.217,82.467C456.949,82.304,457.681,81.896,458.413,81.733C459.145,81.57,459.877,81.475,460.608,81.367C461.34,81.258,462.072,81.171,462.804,81.073" class="ct-line"/>
+                                </g>
+                            </g>
+                            <g class="ct-labels">
+                                <text x="50" y="145" width="2.195767195767196" height="20" class="ct-label ct-horizontal ct-end">22/10, 04:00</text>
+                                <text x="153.2010582010582" y="145" width="2.195767195767189" height="20" class="ct-label ct-horizontal ct-end">22/10, 07:55</text>
+                                <text x="256.4021164021164" y="145" width="2.195767195767189" height="20" class="ct-label ct-horizontal ct-end">22/10, 12:05</text>
+                                <text x="359.60317460317464" y="145" width="2.195767195767189" height="20" class="ct-label ct-horizontal ct-end">22/10, 16:00</text>
+                                <text x="462.8042328042328" y="145" width="30" height="20" class="ct-label ct-horizontal ct-end">22/10, 19:55</text>
+                                <text y="125" x="40" height="36.666666666666664" width="30" class="ct-label ct-vertical ct-start">165</text>
+                                <text y="88.33333333333334" x="40" height="36.666666666666664" width="30" class="ct-label ct-vertical ct-start">170</text>
+                                <text y="51.66666666666667" x="40" height="36.66666666666667" width="30" class="ct-label ct-vertical ct-start">175</text>
+                                <text y="15" x="40" height="30" width="30" class="ct-label ct-vertical ct-start">180</text>
+                            </g>
+                        </svg>
+                        <div class="ct-legend">
+                        </div>
+                    </div>
                 </div>
             </section>
             <section>
@@ -2987,7 +3958,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24/10/2021, 15:03 (timezone America/New_York) with lowlighter/metrics@3.14.0</span>
+                <span>Last updated 24/10/2021, 16:03 (timezone America/New_York) with lowlighter/metrics@3.14.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
