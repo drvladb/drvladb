@@ -1826,23 +1826,23 @@
                     <h3>Language activity</h3>
                     <div class="chart-bars horizontal">
                         <div class="entry">
-                            <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 40.086359481065095%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="name">TSX</span>
+                            <div class="bar" style="width: 39.6012933096099%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">50%</span>
                         </div>
                         <div class="entry">
-                            <span class="name">TSX</span>
-                            <div class="bar" style="width: 38.928675626787%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="name">TypeScript</span>
+                            <div class="bar" style="width: 39.42987239090092%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">49%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 0.7671211561278275%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.7545581511029482%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Dockerfile</span>
-                            <div class="bar" style="width: 0.21784373602007273%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.21427614838623277%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -3089,7 +3089,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Jan 2022, 01:07:39 (timezone America/New_York) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 3 Jan 2022, 02:05:56 (timezone America/New_York) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
