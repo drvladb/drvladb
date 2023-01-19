@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2076" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1777" class="">
     <defs>
         <style/>
     </defs>
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            84 issue comments
+                            86 issue comments
                         </div>
                     </section>
                     <section>
@@ -327,7 +327,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 28 commits)</small>
+                    <small class="h-details">(computed from last 31 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -383,8 +383,8 @@
                             07
                         </div>
                         <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            <span class="value">3</span>
+                            <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             08
                         </div>
                         <div class="entry">
@@ -489,8 +489,8 @@
                                 Wed
                             </div>
                             <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                <span class="value">3</span>
+                                <div class="bar" style="height: 11.538461538461538px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Thu
                             </div>
                             <div class="entry">
@@ -510,8 +510,8 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Java</span>
-                                <div class="bar" style="width: 66.63601219435718%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">83%</span>
+                                <div class="bar" style="width: 65.88536413946679%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">82%</span>
                             </div>
                         </div>
                     </section>
@@ -1579,6 +1579,66 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">FRC5113/Library</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">vb-photonvision</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1764827</div>
+                                        <div class="message">Merge branch 'main' into vb-photonvision</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">FRC5113/Library</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">vb-2023</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#bddf9b2</div>
+                                        <div class="message">fix formatting</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">FRC5113/Library</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">vb-2023</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#48f0e8a</div>
+                                        <div class="message">Merge branch 'main' into vb-2023</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">FRC5113/2023-Pandemonium</span>
                                     </div>
@@ -1612,209 +1672,6 @@ Change Robot Name</div>
                                 <div class="details">
                                     <div>opened by jrego05 in <span class="repo">FRC5113/2023-Pandemonium</span></div>
                                     <div>1 file changed <span class="code">++3 --2</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">FRC5113/Library</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">vb-photonvision</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b583639</div>
-                                        <div class="message">Updated references to Photonvision to v2023</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 9 commits in
-                                        <span class="repo">FRC5113/Library</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">vb-photonvision</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#fee505d</div>
-                                        <div class="message">Update UI designer</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e7585c5</div>
-                                        <div class="message">Updated Photonvision to 2023</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8596bea</div>
-                                        <div class="message">Add new vendor deps to README.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ce634a0</div>
-                                        <div class="message">Formatting Fixes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3f0cb34</div>
-                                        <div class="message">Upgrade to 2023 part 2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#907ab5c</div>
-                                        <div class="message">Remove sample project</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f00eff3</div>
-                                        <div class="message">Merge remote-tracking branch 'origin/main' into vb-2023</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3e1b12e</div>
-                                        <div class="message">Update CI to use java version 17</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5e63905</div>
-                                        <div class="message">Updated WPILib to 2023
-
-Updated WPILIB version to v2023, add formatting plugin</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 11 commits in
-                                        <span class="repo">FRC5113/Library</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">vb-photonvision</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e7df6d1</div>
-                                        <div class="message">Merge 'main' into 'vb-photonvision'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#49f6b6b</div>
-                                        <div class="message">Photon Jar Config - Idea</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3f1ea6c</div>
-                                        <div class="message">Updated WPILib to 2023 (#16)
-
-Updated WPILIB version to v2023, add formatting plugin</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f83eb56</div>
-                                        <div class="message">Fix the thumbstick null pointer and Curve improvments (#15)
-
-* Curve &amp; Thumbstick changes
-
-Curves - configuration now chainable
-Thumbsticks moved to constructor declaration to avoid race with periodic
-
-* Bump version to 1.2.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7872db5</div>
-                                        <div class="message">Bump to 1.2.1 (#14)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#62cc1ae</div>
-                                        <div class="message">Undepreciate the default impl of XboxController (#13)
-
-It's used in the impl of other constructors, but not recommended without using other constructors.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#302d1f8</div>
-                                        <div class="message">Fix the joystick out of bounds error (#8)
-
-* Convert Axis interface from implicit value to only use .getValue() calls
-
-* Remove impl note to get javadoc to build</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fe2d2e2</div>
-                                        <div class="message">Bump version to 1.2.0 (#12)
-
-Ready for testing!</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c46ec31</div>
-                                        <div class="message">Add sample subsystems (#10)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e82a2db</div>
-                                        <div class="message">Clean up the operator interface classes by inserting useful comments (#9)
-
-* Clean up Xbox Controller
-
-* Make stick comments explicit
-
-* Joystick explanations
-
-* Switch generic controller to a HUD interface
-
-* Button comments</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b0b731c</div>
-                                        <div class="message">Vlad: The hunt for VenderDeps (#7)
-
-* The Hunt for VenderDependencies: P1 Github action
-
-* make gradlew executable
-
-* make exectuable, p2
-
-* create mavenJava target
-
-* add version
-
-* setup lines
-
-* bump version
-
-* pushing to LibraryBuilds code
-
-* fix env parameter
-
-* fix package conflict
-
-* fix repo structure
-
-* remove ignore
-
-* bump version
-
-* Create Example VendorDep &amp; Change package Generation to only releases
-
-* auto generation of the .json file
-
-* enable test mode
-
-* .json included in vendordep
-
-* bump version
-
-* convert to only 'on release'
-
-* pull request template
-
-* Update README to include install instructions</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -1904,7 +1761,7 @@ Ready for testing!</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Jan 2023, 08:16:25 (timezone America/New_York) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 19 Jan 2023, 09:07:05 (timezone America/New_York) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
