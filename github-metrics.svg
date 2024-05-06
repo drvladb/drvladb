@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2048" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1762" class="">
     <defs>
         <style/>
     </defs>
@@ -42,7 +42,7 @@
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1451 Commits
+                            1452 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="350.321538325379" height="8" fill="#dd1100"/>
-                    <rect mask="url(#languages-bar)" x="350.321538325379" y="0" width="41.763288067250194" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="392.08482639262917" y="0" width="28.248808813987537" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="420.3336352066167" y="0" width="24.764144776090905" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="445.09777998270755" y="0" width="7.8569647434451895" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="452.95474472615274" y="0" width="3.1616043357766888" height="8" fill="#6a40fd"/>
-                    <rect mask="url(#languages-bar)" x="456.11634906192944" y="0" width="2.8518183195792344" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="458.9681673815087" y="0" width="1.031832618491269" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="350.20654516305007" height="8" fill="#dd1100"/>
+                    <rect mask="url(#languages-bar)" x="350.20654516305007" y="0" width="41.74957925394953" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="391.9561244169996" y="0" width="28.239536133029716" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="420.1956605500293" y="0" width="24.756015937271044" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="444.95167648730035" y="0" width="7.854385692135715" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="452.8060621794361" y="0" width="3.1605665380941894" height="8" fill="#6a40fd"/>
+                    <rect mask="url(#languages-bar)" x="455.9666287175303" y="0" width="2.850882209260344" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="458.81751092679065" y="0" width="1.1824890732093885" height="8" fill="#3D6117"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -319,7 +319,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 4 commits)</small>
+                    <small class="h-details">(computed from last 5 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -440,8 +440,8 @@
                             20
                         </div>
                         <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            <span class="value">1</span>
+                            <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             21
                         </div>
                         <div class="entry">
@@ -461,8 +461,8 @@
                         <h3>Commit activity per day of week</h3>
                         <div class="chart-bars">
                             <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                <span class="value">1</span>
+                                <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Sun
                             </div>
                             <div class="entry">
@@ -502,18 +502,28 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 17.674960184378804%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">22%</span>
+                                <div class="bar" style="width: 15.400197877014406%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">19%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">TeX</span>
+                                <div class="bar" style="width: 6.224405949725823%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">8%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Apex</span>
+                                <div class="bar" style="width: 4.071571109955897%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">5%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">SCSS</span>
-                                <div class="bar" style="width: 1.8645739608243157%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.6246038267402276%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 0.44497264630737177%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">1%</span>
+                                <div class="bar" style="width: 0.3877047943252897%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">0%</span>
                             </div>
                         </div>
                     </section>
@@ -538,6 +548,12 @@
                         </h3>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
+                            </svg>
+                            Current streak 1 day
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/>
                             </svg>
                             Best streak 2 days
@@ -558,7 +574,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~0.35
+                            Average per day at ~0.36
                         </div>
                     </section>
                 </div>
@@ -1541,10 +1557,10 @@
                             </g>
                         </g>
                         <g transform="translate(44.199999999999996, 26)">
-                            <g transform="translate(0, 6)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(0, 5.739130434782609)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.260869565217391 0,1.2608695652173914 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2608695652173914 1.7,2.260869565217391 z"/>
                             </g>
                         </g>
                     </g>
@@ -1559,6 +1575,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">drvladb/Latex</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#47b6c7b</div>
+                                        <div class="message">CV + BZ Experiment proposal</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1637,102 +1673,6 @@ The following vulnerabilities are fixed with an upgrade:
 - https://snyk.io/vuln/SNYK-JS-EJS-6689533
 - https://snyk.io/vuln/SNYK-JS-LODASH-1018905
 - https://snyk.io/vuln/SNYK-JS-LODASH-1040724</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 46 commits in
-                                        <span class="repo">PeriodTimer/PeriodTimer</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">snyk-fix-3cbd8172274843a73d9c550f387a388c</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#20a3fb4</div>
-                                        <div class="message">Beta Loading Fix</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d13e149</div>
-                                        <div class="message">Beta Tag</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#105a79b</div>
-                                        <div class="message">Beta Workflow</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9161c2d</div>
-                                        <div class="message">Beta Branch</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2abb5d4</div>
-                                        <div class="message">Prep for beta template</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#92cc26e</div>
-                                        <div class="message">Fix proc.env issues</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2edfcaf</div>
-                                        <div class="message">Beta Template</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#21a8863</div>
-                                        <div class="message">Fix CI</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#17ae705</div>
-                                        <div class="message">CI and stuff</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cace8d2</div>
-                                        <div class="message">Tests and Workflow changes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cb6d285</div>
-                                        <div class="message">Fix Display Next Up</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e660c79</div>
-                                        <div class="message">Minor Fixes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ff87622</div>
-                                        <div class="message">Backgrounds and KeyBinds</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#34e4989</div>
-                                        <div class="message">Scale and GUI Fixes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fd9804e</div>
-                                        <div class="message">remove unused workflow</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4990237</div>
-                                        <div class="message">rebuild package-lock</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c9a6f40</div>
-                                        <div class="message">fix sourcemap lock</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8d6ae06</div>
-                                        <div class="message">fix sourcemap</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4dbccdc</div>
-                                        <div class="message">Workflows and Spliting</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a2fb0e4</div>
-                                        <div class="message">Initial commit</div>
                                     </div>
                                 </div>
                             </section>
@@ -1823,7 +1763,7 @@ The following vulnerabilities are fixed with an upgrade:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 May 2024, 20:32:11 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 May 2024, 21:45:17 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
